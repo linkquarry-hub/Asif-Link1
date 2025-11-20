@@ -14,7 +14,7 @@
     { "src": "/samandpass", "dest": "/samandpass.js" },
     { "src": "/maqbool", "dest": "/maqbool.js" },
     { "src": "/maqboolpasss", "dest": "/maqboolpass.js" },
-    { "src": "/Qayoom", "dest": "/Qayoom.js" },
-    { "src": "/Qayoompass", "dest": "/Qayoompass.js" }
+    { "src": "/salahudin", "dest": "/salahudin.js" },
+    { "src": "/salahudinpass", "dest": "/salahudinpass.js" }
   ]
 }
